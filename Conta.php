@@ -3,7 +3,7 @@
 class Conta
 {
   public $numero; // atributos
-  public $saldo; // atributos
+  private $saldo; // atributos
 
 }
 
